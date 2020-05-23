@@ -1,0 +1,14 @@
+{
+  "name": "wiperbot",
+  "version": "0.0.3",
+  "description": "wiper özel bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Alp",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
